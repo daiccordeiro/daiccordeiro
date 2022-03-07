@@ -1,4 +1,3 @@
-## Oiii eu sou a Daiane Cordeiro, estudante de TI!
 <div align="center">
   <a href="https://github.com/daiccordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daiccordeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,15 +5,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daia-NET" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="Daia-JS" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Daia-SQL" height="30" width="40"
-src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Daia-NET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Daia-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Daia-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Daia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daia-CSS" height="30" width="40" 
-src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Daia-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="right" alt="Daia-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ktlt3Ic3OAMsyMfSGx/giphy.gif">
 </div>
   
