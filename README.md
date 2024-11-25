@@ -47,10 +47,8 @@
   ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
   ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  -->
-
-
-![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/snake.svg)
- 
+  
  <!--<img src="https://raw.githubusercontent.com/daiccordeiro/daiccordeiro/output/snake.svg" alt="Snake animation"/> 22/11/24--> 
  <!-- ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/github-contribution-grid-snake.svg) 2021--> 
 
+![Snake Animation](https://github.com/daiccordeiro/snake-daiccordeiro.yml/blob/output/github-contribution-grid-snake.svg)
