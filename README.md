@@ -13,16 +13,15 @@
   
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/Sqlserver-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
-![VisualStudio](https://img.shields.io/badge/-visualstudio-00a8e8?style=for-the-badge&logo=visual-studio)
-
 
 <!--<div align="center">-->
   <a href="https://www.linkedin.com/in/daiccordeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -50,6 +49,6 @@
 
 ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/snake.svg)
  
- <!--<img src="https://raw.githubusercontent.com/daiccordeiro/daiccordeiro/output/snake.svg" alt="Snake animation" />--> 22/11/24
- <!-- ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/github-contribution-grid-snake.svg) --> 2021
+ <!--<img src="https://raw.githubusercontent.com/daiccordeiro/daiccordeiro/output/snake.svg" alt="Snake animation"/> 22/11/24--> 
+ <!-- ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/github-contribution-grid-snake.svg) 2021--> 
 
