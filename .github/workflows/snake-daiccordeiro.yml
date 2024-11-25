@@ -14,6 +14,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # Configurar Node.js 16
+      - name: Set up Node.js 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
       # Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@master
@@ -43,4 +49,3 @@ jobs:
       # Log final indicando sucesso
       - name: Workflow Completed
         run: echo "Snake animation updated successfully and deployed to GitHub Pages."
-
