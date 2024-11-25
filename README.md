@@ -50,5 +50,6 @@
   
  <!--<img src="https://raw.githubusercontent.com/daiccordeiro/daiccordeiro/output/snake.svg" alt="Snake animation"/> 22/11/24--> 
  <!-- ![Snake animation](https://github.com/daiccordeiro/daiccordeiro/blob/output/github-contribution-grid-snake.svg) 2021--> 
+![Snake Animation](https://daiccordeiro.github.io/daiccordeiro/github-contribution-grid-snake.svg)
 
-![Snake Animation](https://github.com/daiccordeiro/snake-daiccordeiro.yml/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake Animation](https://github.com/daiccordeiro/snake-daiccordeiro.yml/blob/output/github-contribution-grid-snake.svg)-->
