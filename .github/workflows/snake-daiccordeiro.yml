@@ -1,32 +1,27 @@
 name: Cobrinha ReadME
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *" # Correção para executar a cada 12 horas no início de cada hora
+  schedule: # Executar a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch: # Permitir execução manual
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+
     steps:
       # Checkout do repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Configurar Node.js 16
-      - name: Set up Node.js 16
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16'
-
-      # Snake Animation
+      # Gerar a animação da cobrinha
       - name: Generate Snake Animation
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v3
         with:
           github_user_name: daiccordeiro
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       # Validar se o arquivo foi gerado corretamente
       - name: Validate Snake Animation Output
@@ -37,7 +32,7 @@ jobs:
           fi
           echo "Snake animation SVG generated successfully."
 
-      # Publicar animação no branch `output`
+      # Publicar a animação no branch `output`
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
